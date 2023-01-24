@@ -3,7 +3,7 @@ package commonFunctions;
 public class Sample {
 public static void add()
 {
-	int a=12,b=89,c;
+	int a=18756,b=7654,c;
 	c=a+b;
 	System.out.println(c);
 }
